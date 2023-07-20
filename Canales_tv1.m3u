@@ -15,15 +15,33 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h73yc0r/PAT.jpg" tvg-group="BOLIVIA", PAT
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,003. 13-Sinart
+#EXTINF:-1,019. Baby First
+http://190.122.186.88:8000/play/a0ga/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://190.122.186.88:8000/play/a0en/index.m3u8
+#EXTINF:-1,CARTOON NT HD
+http://190.122.186.88:8000/play/a0e7/index.m3u8
+#EXTINF:-1,Cartoonito
+http://190.122.186.88:8000/play/a0ep/index.m3u8
+#EXTINF:-1,Disney JR
+http://190.122.186.88:8000/play/a0eq/index.m3u8
+#EXTINF:-1,Nick Jr
+http://190.122.186.88:8000/play/a0eo/index.m3u8
+#EXTINF:-1,Nick SIM HD
+http://190.122.186.88:8000/play/a0i7/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://190.122.186.88:8000/play/a0is/index.m3u8
+#EXTINF:-1,Tooncast
+http://190.122.186.88:8000/play/a0hm/index.m3u8
+#EXTINF:-1,001. 13-Sinart
 http://190.122.186.88:8000/play/a0dI/index.m3u8
-#EXTINF:-1,005. 42 - Extra TV 42
+#EXTINF:-1,002. 42 - Extra TV 42
 http://190.122.186.88:8000/play/a0e0/index.m3u8
-#EXTINF:-1,007. A&E
+#EXTINF:-1,003. A&E
 http://190.122.186.88:8000/play/a0hr/index.m3u8
-#EXTINF:-1,008. A&E HD
+#EXTINF:-1,005. A&E HD
 http://190.122.186.88:8000/play/a0fm/index.m3u8
-#EXTINF:-1,009. AMC
+#EXTINF:-1,007. AMC
 http://190.122.186.88:8000/play/a0f5/index.m3u8
 #EXTINF:-1,010. AMC HD
 http://190.122.186.88:8000/play/a0fn/index.m3u8
