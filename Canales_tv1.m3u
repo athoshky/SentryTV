@@ -15,45 +15,6 @@ https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/ind
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h73yc0r/PAT.jpg" tvg-group="BOLIVIA", PAT
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,24/7 : AstroBoy 1980 Classic
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/141.ts
-#EXTINF:-1,24/7 : Canuto & Canito
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/121.ts
-#EXTINF:-1,24/7 : Cine PopCorn 1
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/99.ts
-#EXTINF:-1,24/7 : Cine PopCorn 2
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/102.ts
-#EXTINF:-1,24/7 : Cine PopCorn 3
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/103.ts
-#EXTINF:-1,24/7 : Cine PopCorn 4
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/104.ts
-#EXTINF:-1,24/7 : Cine PopCorn 5
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/131.ts
-#EXTINF:-1,24/7 : Cine PopCorn 50 Best Films
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/112.ts
-#EXTINF:-1,24/7 : Cine PopCorn 6
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/132.ts
-#EXTINF:-1,24/7 : Cine PopCorn 7
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/133.ts
-#EXTINF:-1,24/7 : Cine PopCorn 8
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/134.ts
-#EXTINF:-1,24/7 : Cine PopCorn Bonds
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/113.ts
-#EXTINF:-1,24/7 : Cine PopCorn Christmas Movies
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/110.ts
 #EXTINF:-1,24/7 : Cine PopCorn DBZ
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/106.ts
@@ -63,15 +24,6 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/107.ts
 #EXTINF:-1,24/7 : Cine PopCorn Max
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/105.ts
-#EXTINF:-1,24/7 : Cine PopCorn Nominated F. WJJ
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/109.ts
-#EXTINF:-1,24/7 : Cine PopCorn Oscar Winning A.
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/108.ts
-#EXTINF:-1,24/7 : Cine PopCorn Saga Collection
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/111.ts
 #EXTINF:-1,24/7 : Corre Caminos
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/135.ts
@@ -99,9 +51,6 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/130.ts
 #EXTINF:-1,24/7 : Jonny Quest
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/145.ts
-#EXTINF:-1,24/7 : Kung Fu - Classic
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/149.ts
 #EXTINF:-1,24/7 : La Bruja Tonta
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
