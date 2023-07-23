@@ -1,460 +1,535 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg" tvg-group="BOLIVIA", BOLIVIA TV
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FJJvtrB/bolivision.jpg" tvg-group="BOLIVIA", BOLIVISION
-https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/68wjssL/rtp.jpg" tvg-group="BOLIVIA", RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b2YH4Wk/tvu.jpg" tvg-group="BOLIVIA", TVU
-http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bXf5fnN/uno.jpg" tvg-group="BOLIVIA", RED UNO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bXf5fnN/uno.jpg" tvg-group="BOLIVIA",RED UNO
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXwnvc/unitel.png" tvg-group="BOLIVIA", UNITEL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QPXwnvc/unitel.png" tvg-group="BOLIVIA",UNITEL
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v3JQ5B6/atb.png" tvg-group="BOLIVIA", ATB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v3JQ5B6/atb.png" tvg-group="BOLIVIA",ATB
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/h73yc0r/PAT.jpg" tvg-group="BOLIVIA", PAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv2qgyY/btv.jpg" tvg-group="BOLIVIA",BOLIVIA TV
+https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/e9mHku.png",BOLIVIA TV 7.2 Deportes
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68wjssL/rtp.jpg" tvg-group="BOLIVIA",RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h73yc0r/PAT.jpg" tvg-group="BOLIVIA",PAT
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/PAT/__op/hls-default/__f/index.m3u8
-#EXTINF:-1,24/7 : Cine PopCorn DBZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OEsT0KN.png",F10
+https://video.live.com.bo:3253/live/f10hdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/exdDHml.png",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1,TIGO SPORTS
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1,TIGO SPORTS [2]
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1,CNN EN ESPAÑOL
+http://181.78.24.67:8010/play/a03p/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORK LAT
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://190.122.186.88:8000/play/a0en/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
+#EXTINF:-1,CARTOONITO
+http://190.122.186.88:8000/play/a0ep/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR [1]
+http://190.122.186.88:8000/play/a0eq/index.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD [2]
+http://204.199.120.34:16123/play/ch05
+#EXTINF:-1,DISNEY JUNIOR [3]
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
+#EXTINF:-1,NICK JUNIOR [1]
+http://190.122.186.88:8000/play/a0eo/index.m3u8
+#EXTINF:-1,NICK JUNIOR [2]
+http://167.114.156.136:25461/INFINITV/ZX89NM22/64
+#EXTINF:-1,NICK HD
+http://190.122.186.88:8000/play/a0i7/index.m3u8
+#EXTINF:-1,NICK [1]
+http://190.122.186.88:8000/play/a0is/index.m3u8
+#EXTINF:-1,NICK [2]
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
+#EXTINF:-1,TOONCAST
+http://190.122.186.88:8000/play/a0hm/index.m3u8
+#EXTINF:-1,DISNEY
+http://204.199.120.34:16123/play/ch03
+#EXTINF:-1,DISCOVERY KIDS
+http://204.199.120.34:16123/play/ch02
+#EXTINF:-1,ZOOMOO
+http://204.199.120.34:16123/play/ch04
+#EXTINF:-1,CANAL INFANTIL
+http://204.199.120.34:16123/play/ch06
+#EXTINF:-1,BOOMERANG HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
+#EXTINF:-1,NATGEO KIDS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEk5aJ6.png" ,LATINO KIDS
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1,SEMILLITAS
+http://190.122.186.88:8000/play/a0er/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",NICK
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/78
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",NICK HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/645
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TEEN NICK
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/882
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",TOONCAST
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/95
+
+#EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",CINE INFANTIL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/687
+
+#EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",CINE INFANTIL 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/694
+
+#EXTINF:-1,24/7 : DRAGON BALL Z
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/106.ts
-#EXTINF:-1,24/7 : Cine PopCorn Looney T.
+#EXTINF:-1,24/7 : LOS LOONEY TOONS
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/107.ts
-#EXTINF:-1,24/7 : Cine PopCorn Max
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/105.ts
-#EXTINF:-1,24/7 : Corre Caminos
+#EXTINF:-1,24/7 : CORRE CAMINOS
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/135.ts
-#EXTINF:-1,24/7 : Don Gato y Su Pandilla
+#EXTINF:-1,24/7 : DON GATO Y SU PANDILLA
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/116.ts
-#EXTINF:-1,24/7 : El Avispon Verde
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/148.ts
-#EXTINF:-1,24/7 : El Chavo Del 8 A
+#EXTINF:-1,24/7 : CHAVO DEL 8
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
-#EXTINF:-1,24/7 : EL Gallo Claudio
+#EXTINF:-1,24/7 : GALLO CLAUDIO
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/139.ts
-#EXTINF:-1,24/7 : El Hombre de la Atlantida
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/142.ts
-#EXTINF:-1,24/7 : El Pulpo Manotas
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/118.ts
-#EXTINF:-1,24/7 : Hechizada
+#EXTINF:-1,24/7 : HECHIZADA
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/130.ts
-#EXTINF:-1,24/7 : Jonny Quest
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/145.ts
-#EXTINF:-1,24/7 : La Bruja Tonta
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
-#EXTINF:-1,24/7 : La Casa de Mickey Mouse HD
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
-#EXTINF:-1,24/7 : La Hormiga Atomica
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/122.ts
-#EXTINF:-1,24/7 : La Pantera Rosa 1964
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/147.ts
-#EXTINF:-1,24/7 : Lindo Pulgoso
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/124.ts
-#EXTINF:-1,24/7 : Looney Toons V1
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
-#EXTINF:-1,24/7 : Los Autos Locos
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/117.ts
-#EXTINF:-1,24/7 : Los Osos Montaneses
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/144.ts
-#EXTINF:-1,24/7 : Los Picapiedras
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
-#EXTINF:-1,24/7 : Mi Bella Genio
+#EXTINF:-1,24/7 : MI BELLA GENIO
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/128.ts
-#EXTINF:-1,24/7 : PatoAventura HD
+#EXTINF:-1,24/7 : LA BRUJA TONTA
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
+#EXTINF:-1,24/7 : LA CASA DE MICKEY MOUSE
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
+#EXTINF:-1,24/7 : PANTERA ROSA
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/147.ts
+#EXTINF:-1,24/7 : LOONEY TOONS
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
+#EXTINF:-1,24/7 : LOS AUTOS LOCOS
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/117.ts
+#EXTINF:-1,24/7 : LOS PICAPIEDRAS
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
+#EXTINF:-1,24/7 : PATO AVENTURAS
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/115.ts
-#EXTINF:-1,24/7 : Pixie & Dixie
+#EXTINF:-1,24/7 : PIXIE & DIXIE
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/125.ts
-#EXTINF:-1,24/7 : Replay A
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/136.ts
-#EXTINF:-1,24/7 : Replay B
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/137.ts
-#EXTINF:-1,24/7 : RompePortones
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
-#EXTINF:-1,24/7 : Scooby Doo 1969 Classic
+#EXTINF:-1,24/7 : SCOOBY DOO CLASICO
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/140.ts
-#EXTINF:-1,24/7 : Tiro Loco McGraw
+#EXTINF:-1,24/7 : TIRO LOCO MC GRAW
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/146.ts
-#EXTINF:-1,019. Baby First
-http://190.122.186.88:8000/play/a0ga/index.m3u8
-#EXTINF:-1,Cartoon Network
-http://190.122.186.88:8000/play/a0en/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://190.122.186.88:8000/play/a0e7/index.m3u8
-#EXTINF:-1,Cartoonito
-http://190.122.186.88:8000/play/a0ep/index.m3u8
-#EXTINF:-1,Disney JR
-http://190.122.186.88:8000/play/a0eq/index.m3u8
-#EXTINF:-1,Nick Jr
-http://190.122.186.88:8000/play/a0eo/index.m3u8
-#EXTINF:-1,Nick SIM HD
-http://190.122.186.88:8000/play/a0i7/index.m3u8
-#EXTINF:-1,Nickelodeon
-http://190.122.186.88:8000/play/a0is/index.m3u8
-#EXTINF:-1,Tooncast
-http://190.122.186.88:8000/play/a0hm/index.m3u8
-#EXTINF:-1,001. 13-Sinart
-http://190.122.186.88:8000/play/a0dI/index.m3u8
-#EXTINF:-1,002. 42 - Extra TV 42
-http://190.122.186.88:8000/play/a0e0/index.m3u8
-#EXTINF:-1,003. A&E
-http://190.122.186.88:8000/play/a0hr/index.m3u8
-#EXTINF:-1,005. A&E HD
-http://190.122.186.88:8000/play/a0fm/index.m3u8
-#EXTINF:-1,007. AMC
-http://190.122.186.88:8000/play/a0f5/index.m3u8
-#EXTINF:-1,010. AMC HD
-http://190.122.186.88:8000/play/a0fn/index.m3u8
-#EXTINF:-1,011. Animal Planet
-http://190.122.186.88:8000/play/a0hu/index.m3u8
-#EXTINF:-1,012. Animal Planet HD
-http://190.122.186.88:8000/play/a0fj/index.m3u8
-#EXTINF:-1,015. AXN HD
-http://190.122.186.88:8000/play/a0ji/index.m3u8
-#EXTINF:-1,016. AZ click HD
-http://190.122.186.88:8000/play/a0ft/index.m3u8
-#EXTINF:-1,017. Azcorazon
-http://190.122.186.88:8000/play/a0eu/index.m3u8
-#EXTINF:-1,018. Azmundo
-http://190.122.186.88:8000/play/a0hn/index.m3u8
-#EXTINF:-1,019. Baby First
-http://190.122.186.88:8000/play/a0ga/index.m3u8
-#EXTINF:-1,020. BBC World
-http://190.122.186.88:8000/play/a0f7/index.m3u8
-#EXTINF:-1,021. Canal 11 - GUA
-http://190.122.186.88:8000/play/a0fR/index.m3u8
-#EXTINF:-1,022. Canal 13 - PAN
-http://190.122.186.88:8000/play/a0el/index.m3u8
-#EXTINF:-1,023. Canal 13-GUA
-http://190.122.186.88:8000/play/a0fy/index.m3u8
-#EXTINF:-1,024. Canal 2 - PAN
-http://190.122.186.88:8000/play/a0em/index.m3u8
-#EXTINF:-1,025. Canal 3 - GUA
-http://190.122.186.88:8000/play/a0hh/index.m3u8
-#EXTINF:-1,026. Canal 4 - PAN
-http://190.122.186.88:8000/play/a0iq/index.m3u8
-#EXTINF:-1,028. Canal Antigua - GUA
-http://190.122.186.88:8000/play/a0h7/index.m3u8
-#EXTINF:-1,029. Canal Azteca - GUA
-http://190.122.186.88:8000/play/a0hf/index.m3u8
-#EXTINF:-1,030. Canal Claro
-http://190.122.186.88:8000/play/a0eg/index.m3u8
-#EXTINF:-1,031. Canal Claro HD
-http://190.122.186.88:8000/play/a0e6/index.m3u8
-#EXTINF:-1,032. Cartoon Network
-http://190.122.186.88:8000/play/a0en/index.m3u8
-#EXTINF:-1,033. CARTOON NT HD
-http://190.122.186.88:8000/play/a0e7/index.m3u8
-#EXTINF:-1,034. Cartoonito
-http://190.122.186.88:8000/play/a0ep/index.m3u8
-#EXTINF:-1,036. CDN37 - RD
-http://190.122.186.88:8000/play/a0hk/index.m3u8
-#EXTINF:-1,037. CERTV
-http://190.122.186.88:8000/play/a0in/index.m3u8
-#EXTINF:-1,038. Cine Latino
-http://190.122.186.88:8000/play/a0j5/index.m3u8
-#EXTINF:-1,039. CineCanal
-http://190.122.186.88:8000/play/a0j8/index.m3u8
-#EXTINF:-1,040. CINECANAL HD
-http://190.122.186.88:8000/play/a0i4/index.m3u8
-#EXTINF:-1,041 CineMax
-http://190.122.186.88:8000/play/a0j6/index.m3u8
-#EXTINF:-1,043. Claro Musica
-http://190.122.186.88:8000/play/a0gl/index.m3u8
-#EXTINF:-1,044. Claro Sports 2 HD
-http://190.122.186.88:8000/play/a0e5/index.m3u8
-#EXTINF:-1,045. Claro Sports 2 SD
-http://190.122.186.88:8000/play/a0gh/index.m3u8
-#EXTINF:-1,046. CNNE
-http://190.122.186.88:8000/play/a0f6/index.m3u8
-#EXTINF:-1,047. Color Vision 9 - RD
-http://190.122.186.88:8000/play/a0hj/index.m3u8
-#EXTINF:-1,048. Comedy Central HD
-http://190.122.186.88:8000/play/a0id/index.m3u8
-#EXTINF:-1,049. Concert Channel
-http://190.122.186.88:8000/play/a0j9/index.m3u8
-#EXTINF:-1,050. DHE
-http://190.122.186.88:8000/play/a0e2/index.m3u8
-#EXTINF:-1,051. DHE HD
-http://190.122.186.88:8000/play/a0fs/index.m3u8
-#EXTINF:-1,053. DISC THEATHER HD
-http://190.122.186.88:8000/play/a0ia/index.m3u8
-#EXTINF:-1,054. Discovery Channel
-http://190.122.186.88:8000/play/a0ht/index.m3u8
-#EXTINF:-1,055. Discovery Channel HD
-http://190.122.186.88:8000/play/a0ju/index.m3u8
-#EXTINF:-1,056. Discovery Home & Health
-http://190.122.186.88:8000/play/a0iw/index.m3u8
-#EXTINF:-1,057. Discovery ID HD
-http://190.122.186.88:8000/play/a0jy/index.m3u8
-#EXTINF:-1,058. Discovery Kids
-http://190.122.186.88:8000/play/a0ir/index.m3u8
-#EXTINF:-1,059. Discovery Turbo
-http://190.122.186.88:8000/play/a0iS/index.m3u8
-#EXTINF:-1,060. Discovery World HD
-http://190.122.186.88:8000/play/a0jv/index.m3u8
-#EXTINF:-1,061. Disney
-http://190.122.186.88:8000/play/a0it/index.m3u8
-#EXTINF:-1,062. Disney JR
-http://190.122.186.88:8000/play/a0eq/index.m3u8
-#EXTINF:-1,063. E!
-http://190.122.186.88:8000/play/a0hq/index.m3u8
-#EXTINF:-1,064. E! Entertairment HD
-http://190.122.186.88:8000/play/a0fk/index.m3u8
-#EXTINF:-1,065. El Gourmet
-http://190.122.186.88:8000/play/a0gz/index.m3u8
-#EXTINF:-1,066. ESPN
-http://190.122.186.88:8000/play/a0hx/index.m3u8
-#EXTINF:-1,067. ESPN  +
-http://190.122.186.88:8000/play/a0fc/index.m3u8
-#EXTINF:-1,068. ESPN 2
-http://190.122.186.88:8000/play/a0hy/index.m3u8
-#EXTINF:-1,069. ESPN 2 HD
-http://190.122.186.88:8000/play/a0jp/index.m3u8
-#EXTINF:-1,070. ESPN 3
-http://190.122.186.88:8000/play/a0gi/index.m3u8
-#EXTINF:-1,071. ESPN 3 HD
-http://190.122.186.88:8000/play/a0jo/index.m3u8
-#EXTINF:-1,072. ESPN 4
-http://190.122.186.88:8000/play/a0iz/index.m3u8
-#EXTINF:-1,073. ESPN 4  HD
-http://190.122.186.88:8000/play/a0jh/index.m3u8
-#EXTINF:-1,074. ESPN HD
-http://190.122.186.88:8000/play/a0jn/index.m3u8
-#EXTINF:-1,075. EURO Channel
-http://190.122.186.88:8000/play/a0gd/index.m3u8
-#EXTINF:-1,076. Europa HD
-http://190.122.186.88:8000/play/a0fq/index.m3u8
-#EXTINF:-1,077. EWTN
-http://190.122.186.88:8000/play/a0fa/index.m3u8
-#EXTINF:-1,078. Exa TV
-http://190.122.186.88:8000/play/a0hz/index.m3u8
-#EXTINF:-1,079. Film & Arts
-http://190.122.186.88:8000/play/a0e1/index.m3u8
-#EXTINF:-1,080. Film & arts HD
-http://190.122.186.88:8000/play/a0fl/index.m3u8
-#EXTINF:-1,081. Fox Sport 3
-http://190.122.186.88:8000/play/a0f0/index.m3u8
-#EXTINF:-1,082. FOX Sports 2
-http://190.122.186.88:8000/play/0jh7/index.m3u8
-#EXTINF:-1,083. FOX SPORTS 2 HD
-http://190.122.186.88:8000/play/a0il/index.m3u8
-#EXTINF:-1,084. FOX SPORTS 3 HD
-http://190.122.186.88:8000/play/a0jq/index.m3u8
-#EXTINF:-1,085. France24
-http://190.122.186.88:8000/play/a0f8/index.m3u8
-#EXTINF:-1,086. FUTV CR
-http://190.122.186.88:8000/play/a0io/index.m3u8
-#EXTINF:-1,087. FUTV HD CR
-http://190.122.186.88:8000/play/a0jm/index.m3u8
-#EXTINF:-1,088. FX
-http://190.122.186.88:8000/play/a0gb/index.m3u8
-#EXTINF:-1,089. FX HD
-http://190.122.186.88:8000/play/a0fp/index.m3u8
-#EXTINF:-1,090. Golden
-http://190.122.186.88:8000/play/a0go/index.m3u8
-#EXTINF:-1,091. Golf Channel HD
-http://190.122.186.88:8000/play/a0fv/index.m3u8
-#EXTINF:-1,092. Guatevision - GUA
-http://190.122.186.88:8000/play/a0eh/index.m3u8
-#EXTINF:-1,093. H2
-http://190.122.186.88:8000/play/a0ge/index.m3u8
-#EXTINF:-1,094. HBO Family HD
-http://190.122.186.88:8000/play/a0ec/index.m3u8
-#EXTINF:-1,095. HBO HD
-http://190.122.186.88:8000/play/a0e8/index.m3u8
-#EXTINF:-1,096. HBO Plus HD
-http://190.122.186.88:8000/play/a0ea/index.m3u8
-#EXTINF:-1,098. HBO2 HD
-http://190.122.186.88:8000/play/a0eP/index.m3u8
-#EXTINF:-1,098. HBO2 HD
-http://190.122.186.88:8000/play/a0et/index.m3u8
-#EXTINF:-1,099. History Channel
-http://190.122.186.88:8000/play/a0hv/index.m3u8
-#EXTINF:-1,100 History HD
-http://190.122.186.88:8000/play/a0fb/index.m3u8
-#EXTINF:-1,101. HOLA! TV HD
-http://190.122.186.88:8000/play/a0ic/index.m3u8
-#EXTINF:-1,103. HTV
-http://190.122.186.88:8000/play/a0gn/index.m3u8
-#EXTINF:-1,104. ID
-http://190.122.186.88:8000/play/a0ix/index.m3u8
-#EXTINF:-1,105. ISAT
-http://190.122.186.88:8000/play/a0j3/index.m3u8
-#EXTINF:-1,106. La voz de Maria
-http://190.122.186.88:8000/play/a0iy/index.m3u8
-#EXTINF:-1,108. LIFE TIME
-http://190.122.186.88:8000/play/a0ez/index.m3u8
-#EXTINF:-1,109. MASTV - PAN
-http://190.122.186.88:8000/play/a0g6/index.m3u8
-#EXTINF:-1,110. MTV
-http://190.122.186.88:8000/play/a0j0/index.m3u8
-#EXTINF:-1,111. MTV 00s
-http://190.122.186.88:8000/play/a0gm/index.m3u8
-#EXTINF:-1,112. MTV 00s HD
-http://190.122.186.88:8000/play/a0if/index.m3u8
-#EXTINF:-1,113. MTV 80s
-http://190.122.186.88:8000/play/a0f2/index.m3u8
-#EXTINF:-1,114. MTV HD
-http://190.122.186.88:8000/play/a0fd/index.m3u8
-#EXTINF:-1,115. MTV Hits
-http://190.122.186.88:8000/play/a0f1/index.m3u8
-#EXTINF:-1,116. MTV SIM HD
-http://190.122.186.88:8000/play/a0ie/index.m3u8
-#EXTINF:-1,117. Multimedios
-http://190.122.186.88:8000/play/a0dy/index.m3u8
-#EXTINF:-1,118. Multipremier
-http://190.122.186.88:8000/play/a0j4/index.m3u8
-#EXTINF:-1,119. Nat Geo HD
-http://190.122.186.88:8000/play/a0jr/index.m3u8
-#EXTINF:-1,120. National Geographic
-http://190.122.186.88:8000/play/a0ey/index.m3u8
-#EXTINF:-1,121. NEXT - PAN
-http://190.122.186.88:8000/play/a0g5/index.m3u8
-#EXTINF:-1,122. Nick Jr
-http://190.122.186.88:8000/play/a0eo/index.m3u8
-#EXTINF:-1,123. Nick SIM HD
-http://190.122.186.88:8000/play/a0i7/index.m3u8
-#EXTINF:-1,124. Nickelodeon
-http://190.122.186.88:8000/play/a0is/index.m3u8
-#EXTINF:-1,125. Paramount
-http://190.122.186.88:8000/play/a0e3/index.m3u8
-#EXTINF:-1,127. Pasiones HD
-http://190.122.186.88:8000/play/a0jw/index.m3u8
-#EXTINF:-1,129. RCN Novelas
-http://190.122.186.88:8000/play/a0gp/index.m3u8
-#EXTINF:-1,129. RCN Novelas
-http://190.122.186.88:8000/play/a0gk/index.m3u8
-#EXTINF:-1,130. RHEMA TV
-http://190.122.186.88:8000/play/a0jg/index.m3u8
-#EXTINF:-1,131. Sembrador
-http://190.122.186.88:8000/play/a0gt/index.m3u8
-#EXTINF:-1,132. SEMILLITAS
-http://190.122.186.88:8000/play/a0er/index.m3u8
-#EXTINF:-1,133. SONY
-http://190.122.186.88:8000/play/a0ho/index.m3u8
-#EXTINF:-1,134. SONY HD
-http://190.122.186.88:8000/play/a0i3/index.m3u8
-#EXTINF:-1,135. Sony Movies HD
-http://190.122.186.88:8000/play/a0fr/index.m3u8
-#EXTINF:-1,136. SPACE
-http://190.122.186.88:8000/play/a0ev/index.m3u8
-#EXTINF:-1,137. SPACE HD
-http://190.122.186.88:8000/play/a0jj/index.m3u8
-#EXTINF:-1,138. STAR CHANNEL
-http://190.122.186.88:8000/play/a0iu/index.m3u8
-#EXTINF:-1,139. STAR CHANNEL HD
-http://190.122.186.88:8000/play/a0i1/index.m3u8
-#EXTINF:-1,140. Star TVE HD
-http://190.122.186.88:8000/play/a0fu/index.m3u8
-#EXTINF:-1,141. Studio Universal
-http://190.122.186.88:8000/play/a0j7/index.m3u8
-#EXTINF:-1,142. Studio Universal HD
-http://190.122.186.88:8000/play/a0fh/index.m3u8
-#EXTINF:-1,143. Sun Channel
-http://190.122.186.88:8000/play/a0gg/index.m3u8
-#EXTINF:-1,144. SyFy
-http://190.122.186.88:8000/play/a0hs/index.m3u8
-#EXTINF:-1,145 TBN Enlace
-http://190.122.186.88:8000/play/a0kp/index.m3u8
-#EXTINF:-1,146. TBS
-http://190.122.186.88:8000/play/a0ex/index.m3u8
-#EXTINF:-1,148. Teen Nick HD
-http://190.122.186.88:8000/play/a0fg/index.m3u8
-#EXTINF:-1,150. Telecentro - RD
-http://190.122.186.88:8000/play/a0g3/index.m3u8
-#EXTINF:-1,151. TeleMicro - RD
-http://190.122.186.88:8000/play/a0hi/index.m3u8
-#EXTINF:-1,153. Telemundo HD
-http://190.122.186.88:8000/play/a0fo/index.m3u8
-#EXTINF:-1,154. Telesistema RD
-http://190.122.186.88:8000/play/a0ek/index.m3u8
-#EXTINF:-1,155. Teleunion - RD
-http://190.122.186.88:8000/play/a0g4/index.m3u8
-#EXTINF:-1,156. Teleuniverso - RD
-http://190.122.186.88:8000/play/a0g2/index.m3u8
-#EXTINF:-1,158. TLC
-http://190.122.186.88:8000/play/a0hw/index.m3u8
-#EXTINF:-1,159. TNT
-http://190.122.186.88:8000/play/a0f4/index.m3u8
-#EXTINF:-1,160. TNT HD
-http://190.122.186.88:8000/play/a0i9/index.m3u8
-#EXTINF:-1,161. TNT Series
-http://190.122.186.88:8000/play/a0ew/index.m3u8
-#EXTINF:-1,162. TNT Series HD
-http://190.122.186.88:8000/play/a0jt/index.m3u8
-#EXTINF:-1,163. Tooncast
-http://190.122.186.88:8000/play/a0hm/index.m3u8
-#EXTINF:-1,164. Tru TV
-http://190.122.186.88:8000/play/a0es/index.m3u8
-#EXTINF:-1,165. TV  Max - PAN
-http://190.122.186.88:8000/play/a0ip/index.m3u8
-#EXTINF:-1,166. Universal
-http://190.122.186.88:8000/play/a0j2/index.m3u8
-#EXTINF:-1,167. UNIVERSAL CINEMA ESTE HD
-http://190.122.186.88:8000/play/a0jz/index.m3u8
-#EXTINF:-1,169. UNIVERSAL CRIME HD
-http://190.122.186.88:8000/play/a0ij/index.m3u8
-#EXTINF:-1,170. UNIVERSAL PREMIERE HD
-http://190.122.186.88:8000/play/a0ig/index.m3u8
-#EXTINF:-1,171. UNIVERSAL PREMIERE O HD
-http://190.122.186.88:8000/play/a0ih/index.m3u8
-#EXTINF:-1,173. Univision HD
-http://190.122.186.88:8000/play/a0jx/index.m3u8
-#EXTINF:-1,174. VENUS
-http://190.122.186.88:8000/play/a0gu/index.m3u8
-#EXTINF:-1,175. Warner
-http://190.122.186.88:8000/play/a0hp/index.m3u8
-#EXTINF:-1,176. WARNER HD
-http://190.122.186.88:8000/play/a0i2/index.m3u8
-#EXTINF:-1,178. TVE
-http://190.122.186.88:8000/play/a0k2/index.m3u8
-#EXTINF:-1,179. TLNOVELAS
+
+
+#EXTINF: -1,TELEMUNDO
+http://160.20.165.245:8000/play/a002/index.m3u8
+#EXTINF: -1,LAS ESTRELLAS
+http://190.92.7.19:8000/play/a03j/index.m3u8
+#EXTINF: -1,TLNOVELAS
+http://204.199.120.34:16123/play/ch45
+#EXTINF: -1,TLNOVELAS HD
 http://190.122.186.88:8000/play/Ijh0/index.m3u8
-#EXTINF:-1,180. SKY
-http://190.122.186.88:8000/play/sjh9/index.m3u8
-#EXTINF:-1,181. TUDN
-http://190.122.186.88:8000/play/a0k0/index.m3u8
-#EXTINF:-1,184. CANAL DE LAS ESTRELLA
-http://190.122.186.88:8000/play/hjkP/index.m3u8
-#EXTINF:-1,185. TOTOVISION
-http://190.122.186.88:8000/play/ojkl/index.m3u8
-#EXTINF:-1,186. DISTRITO COMEDIA
-http://190.122.186.88:8000/play/oix5/index.m3u8
-#EXTINF:-1,187. Canal 7 Gua
-http://190.122.186.88:8000/play/Tktv/index.m3u8
-#EXTINF:-1,188 TIGO SPORT
-http://190.122.186.88:8000/play/ljt0/index.m3u8
-#EXTINF:-1,189  BANDAMAX.
-http://190.122.186.88:8000/play/l0hj/index.m3u8
-#EXTINF:-1,190. CENTRO VISION
-http://190.122.186.88:8000/play/lh0jp/index.m3u8
-#EXTINF:-1,191. SOLOLATECO
-http://190.122.186.88:8000/play/jhl0/index.m3u8
+#EXTINF:-1,TELEVISA MTY
+http://167.114.156.136:25461/INFINITV/ZX89NM22/143
+#EXTINF: -1,CARACOL
+http://204.199.120.34:16123/play/ch58
+#EXTINF: -1,EL GOURMET
+http://204.199.120.34:16123/play/ch27
+#EXTINF: -1,AZTECA INTERNACIONAL
+http://190.122.186.88:8000/play/a0hn/index.m3u8
+
+
+#EXTINF: -1,HBO
+http://45.189.117.202:48000/play/a01g/index.m3u8
+#EXTINF: -1,HBO [2]
+http://45.189.117.202:48000/play/a01h/index.m3u8
+#EXTINF: -1,HBO [3]
+http://190.83.119.67:8000/play/a00p/index.m3u8
+#EXTINF: -1,HBO FAMILY
+http://138.59.177.34:8000/play/a01p/index.m3u8
+#EXTINF: -1,HBO PLUS+
+http://138.59.177.34:8000/play/a01o/index.m3u8
+#EXTINF: -1,HBO EXTREME
+http://138.59.177.34:8000/play/a01q/index.m3u8
+#EXTINF: -1,A&E
+http://160.20.165.245:8000/play/a00k/index.m3u8
+#EXTINF: -1,A&E HD
+http://181.78.24.67:8010/play/a009/index.m3u8
+#EXTINF: -1,FX HD
+http://181.78.24.67:8010/play/a04q/index.m3u8
+#EXTINF: -1,GOLDEN PREMIERE
+http://190.92.7.19:8000/play/a00g/index.m3u8
+#EXTINF: -1,GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF: -1,SPACE HD
+http://190.92.7.19:8000/play/a017/index.m3u8
+#EXTINF: -1,UNIVERSAL
+http://160.20.165.245:8000/play/a01d/index.m3u8
+#EXTINF: -1,DHE
+http://45.169.99.154:58001/play/a01a/index.m3u8
+#EXTINF: -1,PARAMOUNT
+http://45.169.99.154:58001/play/a00p/index.m3u8
+#EXTINF: -1,SONY CHANEL
+http://45.169.99.154:58001/play/a02l/index.m3u8
+#EXTINF: -1,WARNER
+http://45.169.99.154:58001/play/a02k/index.m3u8
+#EXTINF: -1,CINEMAX
+http://181.78.24.67:8010/play/a05b/index.m3u8
+#EXTINF: -1,STAR CHANNEL HD
+http://181.78.24.67:8010/play/a00n/index.m3u8
+#EXTINF: -1,STAR
+http://204.199.120.34:16123/play/ch07
+#EXTINF: -1,TNT HD
+http://181.78.24.67:8010/play/a054/index.m3u8
+#EXTINF: -1,TNT SERIES HD
+http://181.78.24.67:8010/play/a04p/index.m3u8
+
+#EXTINF: -1,HISTORY 2
+http://190.92.7.19:8000/play/a01q/index.m3u8
+#EXTINF: -1,ANIMAL PLANET
+http://190.92.7.19:8000/play/a02h/index.m3u8
+#EXTINF: -1,NAT GEO HD
+http://181.78.24.67:8010/play/a05j/index.m3u8
+#EXTINF: -1,NATIONAL GEOGRAPHIC
+http://181.78.24.67:8010/play/a021/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",ANIMAL PLANET 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/633
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",HISTORY 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/61
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",NAT GEO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/76
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",NAT GEO WILD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/77
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN PELICULAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/714
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",PARAMOUNT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/200
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",PARAMOUNT [2]
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/647
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",WARNER TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/102
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",TELEMUNDO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/92
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",COMEDY CENTRAL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/135
+
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/32
+
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Bichos" group-title="Peliculas",Bichos
+https://archive.org/download/videotime-cine-latino/Bichos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Buscando a Dory" group-title="Peliculas",Buscando a Dory
+https://archive.org/download/videotime-cine-latino/Buscando%20a%20Dory.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Buscando a Nemo" group-title="Peliculas",Buscando a Nemo
+https://archive.org/download/videotime-cine-latino/Buscando%20a%20Nemo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 1" group-title="Peliculas",Cars 1
+https://archive.org/download/videotime-cine-latino/Cars%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 2" group-title="Peliculas",Cars 2
+https://archive.org/download/videotime-cine-latino/Cars%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cars 3" group-title="Peliculas",Cars 3
+https://archive.org/download/videotime-cine-latino/Cars%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Charlie y la fabrica de chocolate" group-title="Peliculas",Charlie y la fabrica de chocolate
+https://archive.org/download/videotime-cine-latino/Charlie%20y%20la%20fabrica%20de%20chocolate.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Chicken Little" group-title="Peliculas",Chicken Little
+https://archive.org/download/videotime-cine-latino/Chicken%20Little.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Christopher Robin: un reencuentro inolvidable" group-title="Peliculas",Christopher Robin: un reencuentro inolvidable
+https://archive.org/download/videotime-cine-latino/Christopher%20Robin%20-%20Un%20reencuentro%20inolvidable.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Cigueñas" group-title="Peliculas",Cigueñas
+https://archive.org/download/videotime-cine-latino/Cigue%C3%B1as.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Club de los villanos de Mickey Mouse" group-title="Peliculas",Club de los villanos de Mickey Mouse
+https://archive.org/download/videotime-cine-latino/Club%20de%20los%20Villanos%20de%20Mickey%20Mouse.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Coco" group-title="Peliculas",Coco
+https://archive.org/download/videotime-cine-latino/Coco.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 1" group-title="Peliculas",Como entrenar a tu dragon 1
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 2" group-title="Peliculas",Como entrenar a tu dragon 2
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Como entrenar a tu dragon 3" group-title="Peliculas",Como entrenar a tu dragon 3
+https://archive.org/download/videotime-cine-latino/Como%20entrenar%20a%20tu%20dragon%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Cruella" group-title="Peliculas",Cruella
+https://archive.org/download/videotime-cine-latino/Cruella.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Dumbo (1941)" group-title="Peliculas",Dumbo (1941)
+https://archive.org/download/videotime-cine-latino/Dumbo%20%281941%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Dumbo (2019)" group-title="Peliculas",Dumbo (2019)
+https://archive.org/download/videotime-cine-latino/Dumbo%20%282019%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="E.T. El Extraterrestre" group-title="Peliculas",E.T. El Extraterrestre
+https://archive.org/download/videotime-cine-latino/E.T.%20El%20Extraterrestre.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="El gato con botas" group-title="Peliculas",El gato con botas
+https://archive.org/download/videotime-cine-latino/El%20gato%20con%20botas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Disney's_Encanto_logo.png" tvg-name="Encanto" group-title="Peliculas",Encanto
+https://archive.org/download/videotime-cine-latino/Encanto.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Enredados" group-title="Peliculas",Enredados
+https://archive.org/download/videotime-cine-latino/Enredados.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Fantasia 2000" group-title="Peliculas",Fantasia 2000
+https://archive.org/download/videotime-cine-latino/Fantasia%202000.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Fantasia" group-title="Peliculas",Fantasia
+https://archive.org/download/videotime-cine-latino/Fantasia.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Garfield 1" group-title="Peliculas",Garfield 1
+https://archive.org/download/videotime-cine-latino/Garfield%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Garfield 2" group-title="Peliculas",Garfield 2
+https://archive.org/download/videotime-cine-latino/Garfield%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Goofy 1" group-title="Peliculas",Goofy 1
+https://archive.org/download/videotime-cine-latino/Goofy%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Goofy 2" group-title="Peliculas",Goofy 2
+https://archive.org/download/videotime-cine-latino/Goofy%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Han Solo: Una historia de Star Wars" group-title="Peliculas",Han Solo: Una historia de Star Wars
+https://archive.org/download/videotime-cine-latino/Han%20Solo%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Intensa Mente" group-title="Peliculas",Intensa Mente
+https://archive.org/download/videotime-cine-latino/Intensa%20Mente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 1" group-title="Peliculas",Jurassic Park 1
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 2 - El mundo perdido" group-title="Peliculas",Jurassic Park 2 - El mundo perdido
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%202%20-%20El%20mundo%20perdido.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic Park 3" group-title="Peliculas",Jurassic Park 3
+https://archive.org/download/videotime-cine-latino/Jurassic%20Park%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic World - Mundo Jurasico" group-title="Peliculas",Jurassic World - Mundo Jurasico
+https://archive.org/download/videotime-cine-latino/Jurassic%20World%20-%20Mundo%20Jurasico.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Jurassic World 2 - El Reino Caido" group-title="Peliculas",Jurassic World 2 - El Reino Caido
+https://archive.org/download/videotime-cine-latino/Jurassic%20World%202%20-%20El%20Reino%20Caido.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 1" group-title="Peliculas",Kung Fu Panda 1
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 2" group-title="Peliculas",Kung Fu Panda 2
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Kung Fu Panda 3" group-title="Peliculas",Kung Fu Panda 3
+https://archive.org/download/videotime-cine-latino/Kung%20Fu%20Panda%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La Oveja Shaun: La pelicula" group-title="Peliculas",La Oveja Shaun: La pelicula
+https://archive.org/download/videotime-cine-latino/La%20Oveja%20Shaun%20-%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 1" group-title="Peliculas",La era de hielo 1
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 2" group-title="Peliculas",La era de hielo 2
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 3" group-title="Peliculas",La era de hielo 3
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 4" group-title="Peliculas",La era de hielo 4
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%204.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La era de hielo 5 - Choque de mundos" group-title="Peliculas",La era de hielo 5 - Choque de mundos
+https://archive.org/download/videotime-cine-latino/La%20era%20de%20hielo%205%20-%20Choque%20de%20mundos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La gran aventura Lego 1" group-title="Peliculas",La gran aventura Lego 1
+https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La gran aventura Lego 2" group-title="Peliculas",La gran aventura Lego 2
+https://archive.org/download/videotime-cine-latino/La%20gran%20aventura%20Lego%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="La gran pelicula de Piglet" group-title="Peliculas",La gran pelicula de Piglet
+https://archive.org/download/videotime-cine-latino/La%20gran%20pelicula%20de%20Piglet.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="La pelicula de Stitch" group-title="Peliculas",La pelicula de Stitch
+https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Stitch.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="La pelicula de Tigger" group-title="Peliculas",La pelicula de Tigger
+https://archive.org/download/videotime-cine-latino/La%20pelicula%20de%20Tigger.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La vida secreta de tus mascotas 1" group-title="Peliculas",La vida secreta de tus mascotas 1
+https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="La vida secreta de tus mascotas 2" group-title="Peliculas",La vida secreta de tus mascotas 2
+https://archive.org/download/videotime-cine-latino/La%20vida%20secreta%20de%20tus%20mascotas%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Las grandes aventuras de Winnie Pooh" group-title="Peliculas",Las grandes aventuras de Winnie Pooh
+https://archive.org/download/videotime-cine-latino/Las%20grandes%20aventuras%20de%20Winnie%20Pooh.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Leroy y Stitch" group-title="Peliculas",Leroy y Stitch
+https://archive.org/download/videotime-cine-latino/Leroy%20y%20Stitch.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Lilo y Stitch 1" group-title="Peliculas",Lilo y Stitch 1
+https://archive.org/download/videotime-cine-latino/Lilo%20y%20Stitch%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Logo_Lilo_%26_Stitch.svg.png" tvg-name="Lilo y Stitch 2" group-title="Peliculas",Lilo y Stitch 2
+https://archive.org/download/videotime-cine-latino/Lilo%20y%20Stitch%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Los Increibles 1" group-title="Peliculas",Los Increibles 1
+https://archive.org/download/videotime-cine-latino/Los%20Increibles%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Los Increibles 2" group-title="Peliculas",Los Increibles 2
+https://archive.org/download/videotime-cine-latino/Los%20Increibles%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Los Minions" group-title="Peliculas",Los Minions
+https://archive.org/download/videotime-cine-latino/Los%20Minions.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Los Simpson: La pelicula" group-title="Peliculas",Los Simpson: La pelicula
+https://archive.org/download/videotime-cine-latino/Los%20Simpson%20-%20La%20pelicula.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Luca-Logo-png.png" tvg-name="Luca" group-title="Peliculas",Luca
+https://archive.org/download/videotime-cine-latino/Luca.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Megamente" group-title="Peliculas",Megamente
+https://archive.org/download/videotime-cine-latino/Megamente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 1" group-title="Peliculas",Mi villano favorito 1
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 2" group-title="Peliculas",Mi villano favorito 2
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Mi villano favorito 3" group-title="Peliculas",Mi villano favorito 3
+https://archive.org/download/videotime-cine-latino/Mi%20villano%20favorito%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey y sus amigos juntos otra Navidad" group-title="Peliculas",Mickey y sus amigos juntos otra Navidad
+https://archive.org/download/videotime-cine-latino/Mickey%20y%20Sus%20Amigos%20Juntos%20Otra%20Navidad.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Mickey-Mouse-logo.png" tvg-name="Mickey, Donald, Goofy: Los tres mosqueteros" group-title="Peliculas",Mickey Donald Goofy: Los tres mosqueteros
+https://archive.org/download/videotime-cine-latino/Mickey%2C%20Donald%20y%20Goofy%20-%20Los%20tres%20mosqueteros.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Monsters, Inc." group-title="Peliculas",Monsters, Inc.
+https://archive.org/download/videotime-cine-latino/Monsters%20Inc..mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ralph el demoledor 1" group-title="Peliculas",Ralph el demoledor 1
+https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ralph el demoledor 2 (Wifi Ralph)" group-title="Peliculas",Ralph el demoledor 2 (Wifi Ralph)
+https://archive.org/download/videotime-cine-latino/Ralph%20el%20demoledor%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Ratatouille" group-title="Peliculas",Ratatouille
+https://archive.org/download/videotime-cine-latino/Ratatouille.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Turning-Red_logotype.png" tvg-name="Red" group-title="Peliculas",Red
+https://archive.org/download/videotime-cine-latino/Red.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Rogue One: Una historia de Star Wars" group-title="Peliculas",Rogue One: Una historia de Star Wars
+https://archive.org/download/videotime-cine-latino/Rogue%20One%20-%20Una%20historia%20de%20Star%20Wars.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Ron da error" group-title="Peliculas",Ron da error
+https://archive.org/download/videotime-cine-latino/Ron%20da%20error.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Sing 1" group-title="Peliculas",Sing 1
+https://archive.org/download/videotime-cine-latino/Sing.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Sing 2" group-title="Peliculas",Sing 2
+https://archive.org/download/videotime-cine-latino/Sing%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Soul" group-title="Peliculas",Soul
+https://archive.org/download/videotime-cine-latino/Soul.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Spider-Man: Un nuevo universo" group-title="Peliculas",Spider-Man: Un nuevo universo
+https://archive.org/download/videotime-cine-latino/Spider-Man%20-%20Un%20nuevo%20universo.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 1: La amenaza fantasma" group-title="Peliculas",Star Wars - Ep. 1: La amenaza fantasma
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%201%20-%20La%20amenaza%20fantasma.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 2: El ataque de los clones" group-title="Peliculas",Star Wars - Ep. 2: El ataque de los clones
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%202%20-%20El%20ataque%20de%20los%20clones.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 3: La venganza de los Sith" group-title="Peliculas",Star Wars - Ep. 3: La venganza de los Sith
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%203%20-%20La%20venganza%20de%20los%20Sith.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 4: Una nueva esperanza" group-title="Peliculas",Star Wars - Ep. 4: Una nueva esperanza
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%204%20-%20Una%20nueva%20esperanza.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 5: El imperio contraataca" group-title="Peliculas",Star Wars - Ep. 5: El imperio contraataca
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%205%20-%20El%20imperio%20contraataca.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 6: El Retorno del Jedi" group-title="Peliculas",Star Wars - Ep. 6: El Retorno del Jedi
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%206%20-%20El%20Retorno%20del%20Jedi.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 7: El despertar de la fuerza" group-title="Peliculas",Star Wars - Ep. 7: El despertar de la fuerza
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%207%20-%20El%20despertar%20de%20la%20fuerza.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 8: Los ultimos Jedi" group-title="Peliculas",Star Wars - Ep. 8: Los ultimos Jedi
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%208%20-%20Los%20ultimos%20Jedi.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Ep. 9: El Ascenso de Skywalker" group-title="Peliculas",Star Wars - Ep. 9: El Ascenso de Skywalker
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Ep.%209%20-%20El%20Ascenso%20de%20Skywalker.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/star-wars-logo-3-11-300x130.png" tvg-name="Star Wars - Las guerras clonicas" group-title="Peliculas",Star Wars - Las guerras clonicas
+https://archive.org/download/videotime-cine-latino/Star%20Wars%20-%20Las%20guerras%20clonicas.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Tom y Jerry (2021)" group-title="Peliculas",Tom y Jerry (2021)
+https://archive.org/download/videotime-cine-latino/Tom%20y%20Jerry%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 1" group-title="Peliculas",Toy Story 1
+https://archive.org/download/videotime-cine-latino/Toy%20Story%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 2" group-title="Peliculas",Toy Story 2
+https://archive.org/download/videotime-cine-latino/Toy%20Story%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 3" group-title="Peliculas",Toy Story 3
+https://archive.org/download/videotime-cine-latino/Toy%20Story%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Toy Story 4" group-title="Peliculas",Toy Story 4
+https://archive.org/download/videotime-cine-latino/Toy%20Story%204.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Trolls 1" group-title="Peliculas",Trolls 1
+https://archive.org/download/videotime-cine-latino/Trolls%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Trolls 2 - Gira mundial" group-title="Peliculas",Trolls 2 - Gira mundial
+https://archive.org/download/videotime-cine-latino/Trolls%202%20-%20Gira%20mundial.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Un gran dinosaurio" group-title="Peliculas",Un gran dinosaurio
+https://archive.org/download/videotime-cine-latino/Un%20gran%20dinosaurio.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Unidos" group-title="Peliculas",Unidos
+https://archive.org/download/videotime-cine-latino/Unidos.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Up" group-title="Peliculas",Up
+https://archive.org/download/videotime-cine-latino/Up.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Valiente" group-title="Peliculas",Valiente
+https://archive.org/download/videotime-cine-latino/Valiente.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 1" group-title="Peliculas",Volver al futuro 1
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%201.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 2" group-title="Peliculas",Volver al futuro 2
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%202.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/movie.png" tvg-name="Volver al futuro 3" group-title="Peliculas",Volver al futuro 3
+https://archive.org/download/videotime-cine-latino/Volver%20al%20futuro%203.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Wall-e" group-title="Peliculas",Wall-e
+https://archive.org/download/videotime-cine-latino/Wall-e.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Winnie Pooh: Una primavera con Rito" group-title="Peliculas",Winnie Pooh: Una primavera con Rito
+https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20-%20Una%20primavera%20con%20Rito.mp4
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/700px-Disney_wordmark.svg.png" tvg-name="Winnie Pooh (2011)" group-title="Peliculas",Winnie Pooh (2011)
+https://archive.org/download/videotime-cine-latino/Winnie%20Pooh%20%282011%29.mp4
