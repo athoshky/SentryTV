@@ -120,62 +120,6 @@ https://v3.playerlatino.live/stream/m3u8/687
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/694
 
-#EXTINF:-1,24/7 : DRAGON BALL Z
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/106.ts
-#EXTINF:-1,24/7 : LOS LOONEY TOONS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/107.ts
-#EXTINF:-1,24/7 : CORRE CAMINOS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/135.ts
-#EXTINF:-1,24/7 : DON GATO Y SU PANDILLA
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/116.ts
-#EXTINF:-1,24/7 : CHAVO DEL 8
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
-#EXTINF:-1,24/7 : GALLO CLAUDIO
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/139.ts
-#EXTINF:-1,24/7 : HECHIZADA
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/130.ts
-#EXTINF:-1,24/7 : MI BELLA GENIO
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/128.ts
-#EXTINF:-1,24/7 : LA BRUJA TONTA
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
-#EXTINF:-1,24/7 : LA CASA DE MICKEY MOUSE
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
-#EXTINF:-1,24/7 : PANTERA ROSA
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/147.ts
-#EXTINF:-1,24/7 : LOONEY TOONS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
-#EXTINF:-1,24/7 : LOS AUTOS LOCOS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/117.ts
-#EXTINF:-1,24/7 : LOS PICAPIEDRAS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
-#EXTINF:-1,24/7 : PATO AVENTURAS
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/115.ts
-#EXTINF:-1,24/7 : PIXIE & DIXIE
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/125.ts
-#EXTINF:-1,24/7 : SCOOBY DOO CLASICO
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/140.ts
-#EXTINF:-1,24/7 : TIRO LOCO MC GRAW
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/146.ts
-
-
 #EXTINF: -1,TELEMUNDO
 http://160.20.165.245:8000/play/a002/index.m3u8
 #EXTINF: -1,LAS ESTRELLAS
